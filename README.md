@@ -30,7 +30,7 @@ ResetReminder 是一款面向 Codex 用户的 macOS / Windows 桌面工具。它
 
 #### Windows
 
-1. 下载并运行 `ResetReminder Setup 0.1.0.exe`。
+1. 下载并运行 `ResetReminder.Setup.0.1.0.exe`。
 2. 如果 Microsoft Defender SmartScreen 显示“Windows 已保护你的电脑”，请先确认文件来自本仓库的 Release 且校验值一致，再选择“更多信息 → 仍要运行”。
 3. 首次运行时，根据系统提示允许通知。
 
@@ -70,7 +70,7 @@ Download the installer for your platform from [Releases](https://github.com/Jing
 
 #### Windows
 
-1. Download and run `ResetReminder Setup 0.1.0.exe`.
+1. Download and run `ResetReminder.Setup.0.1.0.exe`.
 2. If Microsoft Defender SmartScreen shows “Windows protected your PC,” first confirm that the file came from this repository’s Release and that its checksum matches. Then choose **More info → Run anyway**.
 3. Allow notifications when Windows asks.
 
